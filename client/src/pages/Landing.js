@@ -1,3 +1,5 @@
+import styles from "../styles/landing.module.scss";
+
 import logo from "../assets/images/logo.svg";
 import main from "../assets/images/main.svg";
 
